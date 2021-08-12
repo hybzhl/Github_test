@@ -1,0 +1,1 @@
+"use strict";var div=document.querySelector("div"),arr=[1,2,3,4,5];

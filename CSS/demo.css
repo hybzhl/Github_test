@@ -1,0 +1,11 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+ .box{
+     width: 200px;
+     height: 200px;
+     background-color: blue;
+     animation: all 10ms linear;
+ }
