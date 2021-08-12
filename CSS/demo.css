@@ -9,3 +9,6 @@ div{
      background-color: blue;
      animation: all 10ms linear;
  }
+ #color{
+     background-color: pink;
+ }
